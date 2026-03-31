@@ -2,6 +2,8 @@
 
 > Implementation of the pixel art editor designed in `../pixel-art-editor.pen`
 
+![Pixel Art Editor](./screenshot.png)
+
 ## Stack
 
 | | |
